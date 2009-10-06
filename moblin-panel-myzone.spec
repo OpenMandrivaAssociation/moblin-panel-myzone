@@ -36,6 +36,7 @@ Moblin's myzone library
 %package -n %{develname}
 Summary: Moblin's myzone library (development files)
 Group: System/Libraries
+Requires: %{libname} = %{version}-%{release}
 
 %description -n %{develname}
 Moblin's myzone library (development files)
