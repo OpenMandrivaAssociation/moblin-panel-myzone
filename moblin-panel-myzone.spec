@@ -14,11 +14,10 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 BuildRequires: libGConf2-devel
 BuildRequires: clutter-devel
-BuildRequires: libjana-devel
-BuildRequires: libjana0-ecal
+BuildRequires: jana-devel
 BuildRequires: gtk2-devel
 BuildRequires: nbtk-devel
-BuildRequires: mutter-moblin
+BuildRequires: moblin-panel-devel
 BuildRequires: mojito-devel
 BuildRequires: intltool
 BuildRequires: gettext
