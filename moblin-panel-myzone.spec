@@ -58,8 +58,6 @@ rm -rf %{buildroot}
 %files 
 %defattr(-,root,root,-)
 %doc COPYING NEWS README AUTHORS ChangeLog
-%exclude %{_libdir}/debug
-%exclude %{_libdir}/libpenge*
 %{_libexecdir}/*
 %{_datadir}/*
 
