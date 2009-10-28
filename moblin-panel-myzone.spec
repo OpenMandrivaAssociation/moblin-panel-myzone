@@ -6,7 +6,7 @@
 Name: moblin-panel-myzone
 Summary: Myzone panel for Moblin
 Group: Graphical desktop/Other 
-Version: 0.0.6
+Version: 0.0.11
 License: LGPL 2.1
 URL: http://www.moblin.org
 Release: %mkrel 3
